@@ -1,39 +1,50 @@
 * {
     margin: 0;
     padding: 0;
-    
-  }
 
-  body {
+}
+
+body {
     background-color: black;
     font-family: 'Didot', serif;
     color: white
-  }
+}
 
-  .portfolio {
+.portfolio {
 
+    display: block;
+    background-color: #0D2818;
+    color: #FED686;
+    padding: 20px 0 25px 90px;
+    margin: auto;
+    font-size: 50px;
+
+}
+
+.checks {
     background-color: #0D2818;
     color: white;
+    margin: 10%;
+}
 
-  }
-
-  .imgs {
+.imgs {
     background-color: #04471C;
     font-family: 'Didot', serif;
-    color: cornsilk
+    color: cornsilk;
+    margin: 10%;
 
-  }
+}
 
-  .descricao1 {
+.descricao1 {
     background-color: #058C42;
     font-family: 'Didot', serif;
-    color: black
-  }
-  
-  .descricao2 {
+    color: black;
+    margin: 10%;
+}
+
+.descricao2 {
     background-color: #16DB65;
     font-family: 'Didot', serif;
-    color: black
-  }
-
-  
+    color: black;
+    margin: 10%;
+}
