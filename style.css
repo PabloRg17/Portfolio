@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+
+  body {
+    background-color: black;
+    font-family: 'Didot', serif;
+    color: white
+  }
+
+  .portfolio {
+
+    background-color: #0D2818;
+    color: white;
+
+  }
+
+  .imgs {
+    background-color: #04471C;
+    font-family: 'Didot', serif;
+    color: cornsilk
+
+  }
+
+  .descricao1 {
+    background-color: #058C42;
+    font-family: 'Didot', serif;
+    color: black
+  }
+  
+  .descricao2 {
+    background-color: #16DB65;
+    font-family: 'Didot', serif;
+    color: black
+  }
+
+  
